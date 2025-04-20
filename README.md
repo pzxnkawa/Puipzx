@@ -1,2 +1,0 @@
-# Puipzx
-repository for learning.
